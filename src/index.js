@@ -25,3 +25,5 @@ console.log(sum(1, 99, 'flood'));
 console.log(max(['teeext', 43, 99]));
 console.log(min(['feef', 43, 99]));
 
+
+
